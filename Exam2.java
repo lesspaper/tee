@@ -6,15 +6,15 @@ public class Exam2 {
         Scanner s = new Scanner(System.in);
         
         int[] inputs = new int[5];
-        System.out.println("Enter 1st numer : ");
+        System.out.println("Enter 1st number : ");
         inputs[0] = s.nextInt();
-        System.out.println("Enter 2nd numer : ");
+        System.out.println("Enter 2nd number : ");
         inputs[1] = s.nextInt();
-        System.out.println("Enter 3rd numer : ");
+        System.out.println("Enter 3rd number : ");
         inputs[2] = s.nextInt();
-        System.out.println("Enter 4th numer : ");
+        System.out.println("Enter 4th number : ");
         inputs[3] = s.nextInt();
-        System.out.println("Enter 5th numer : ");
+        System.out.println("Enter 5th number : ");
         inputs[4] = s.nextInt();
 
         System.out.println("");
